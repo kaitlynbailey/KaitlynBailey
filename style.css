@@ -4,7 +4,7 @@ header {
 }
 
 /* nav container, remove bullets, move elemenets to same line */
-header nav ul li{
+header nav ol li{
   list-style-type: none;
   display: inline;
   padding: 35px;
