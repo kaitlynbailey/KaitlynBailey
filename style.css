@@ -89,11 +89,6 @@ footer {
   padding: 1px;
 }
 
-/*.link-placeholder {
-  margin: 45px;
-}
-*/
-
 .group{
   display: flex;
   flex-direction: column;
@@ -106,11 +101,6 @@ footer {
  margin-left: auto;
 }
 
-/* .item-two {
-  flex: 1;
-  margin: auto;
-}
-*/
 
 @media all and (max-width: 800px){
   .list-margin {
@@ -125,26 +115,11 @@ footer {
     flex-direction: row;
     justify-content: center;
   }
-
-/*  .group-large {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-  }
-*/
   
   .wrapper {
     width: 65%;
     margin: auto;
   }
-
-  /*.item-two {
-    flex: 1;
-    margin: 50px;
-  }
-  */
-  
-  
   
   .center {
     margin-left: 100px;
